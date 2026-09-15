@@ -58,5 +58,5 @@ The repository will be updated with SQL queries, dashboards, visualizations, and
 
 ---
 
-# 👤 Author
+### 👤 Author
 **Sejal Parche**
